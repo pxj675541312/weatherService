@@ -318,6 +318,7 @@ d）各字段定义见：<br>
 |4	|步长	|TIME_STEP_SIZE	|N(3,0)|	|||||					
 |5	|步长单位|	TIME_STEP_UNIT|	NVARCHAR2(1)	|	|||||			
 |8	|备注	|NT	|NVARCHAR2(255)|	||||||				
+
 e）各字段存储内容应符合下列规定：<br>
 1) 编号<br>
 2) 气象中心<br>
